@@ -1,0 +1,18 @@
+## rosemary-user 12 SP1A.210812.016 V13.0.5.0.SFFTWXM release-keys
+- Manufacturer: xiaomi
+- Platform: mt6785
+- Codename: rosemary
+- Brand: Redmi
+- Flavor: rosemary-user
+- Release Version: 12
+- Id: SP1A.210812.016
+- Incremental: V13.0.5.0.SFFTWXM
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: true
+- Locale: en-GB
+- Screen Density: 440
+- Fingerprint: Redmi/rosemary/rosemary:12/SP1A.210812.016/V13.0.5.0.SFFTWXM:user/release-keys
+- OTA version: 
+- Branch: rosemary-user-12-SP1A.210812.016-V13.0.5.0.SFFTWXM-release-keys-random-text-30373344211991
+- Repo: redmi_rosemary_dump
